@@ -16,7 +16,7 @@ public class Assignment {
 
     // TODO: Create an integer array named myIntArray with at least 3 elements
     public int[] myIntArray;
-
+    
     public Assignment() {
         // Students will initialize their variables here
         // Example (students should change these values):
@@ -24,8 +24,9 @@ public class Assignment {
         myInt = 234;
         myDouble = 2.234;
         myBoolean = false;
-        myStringArray = new String[]{"onesa","asfhdlkjfhd"};
+        myStringArray = new String[]{"onesa","asfhdlkjfhd","dsfafdsaf"};
         myIntArray = new int[]{1,2,3,4};
         
     }
 }
+
